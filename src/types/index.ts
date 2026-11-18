@@ -38,3 +38,4 @@ export interface SpinResult {
 }
 
 export type PageView = 'dashboard' | 'spinner';
+

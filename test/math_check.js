@@ -44,3 +44,4 @@ for (const n of [2, 3, 5, 8, 12, 17, 24, 35, 50]) {
   console.log(`✓ Tested N=${n} segments: 100% exact pointer alignment`);
 }
 console.log('ALL MATH CHECKS PASSED PERFECTLY!');
+

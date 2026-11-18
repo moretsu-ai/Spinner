@@ -149,3 +149,4 @@ export const HistoryDrawer: React.FC<HistoryDrawerProps> = ({ isOpen, onClose })
     </AnimatePresence>
   );
 };
+

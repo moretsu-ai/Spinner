@@ -108,3 +108,4 @@ export const DEFAULT_SPINNERS: Spinner[] = [
     ],
   },
 ];
+
